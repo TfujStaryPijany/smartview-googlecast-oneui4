@@ -1,0 +1,6 @@
+id=smartview_googlecast
+name=Smart View 8.2.20.14 with Google Cast (One UI 4.1)
+version=8.2.20.14-p1
+versionCode=1
+author=TfujStaryPijany
+description=Replaces stock Smart View 8.2.16.44 with a patched 8.2.20.14 that can mirror to Chromecast / Google Cast devices on Android 12. Remove the module to go back to stock.
